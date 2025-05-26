@@ -1,1 +1,1 @@
-[!image](./fence_kouji.png)
+![image](./fence_kouji.png)
