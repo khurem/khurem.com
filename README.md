@@ -1,1 +1,1 @@
-# khurem.com
+[!image](./fence_kouji.png)
